@@ -12,6 +12,13 @@ Analytical problem solver with a degree in Economics and proficiency in **Excel,
 ## BIO
 I'm a recent Economics graduate with a passion for data science and problem-solving. Throughout my academic career, I developed strong skills in Excel, SQL, E-VIEWS, and POWERBI, which I've applied in various challenges and research projects. I'm particularly interested in the intersection of economics and social impact, and I hope to use my skills to make a positive difference in the world. In my free time, you can find me watching movies or going out with my friends. Let's connect and see how we can collaborate to achieve our goals.
 
+### Data analytical tools I'm proficient in
+- *Excel*
+- *Power Bi*
+- *SQL*
+- *Tableau*
+- *Python*
+
 ### How to reach me
 [Twitter](https://twitter.com/noelshalom?s=21&t=sXwbGlpc_k7j4lyPl5Vy_Q)
 [Linkedin](https://www.linkedin.com/in/okechukwu-m-3748a5b9)
