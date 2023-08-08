@@ -20,6 +20,6 @@ Okechukwu Monye is a graduate of Economics with a passion for data science and a
 - *Python*
 
 ### How to reach me
-[Twitter](https://twitter.com/noelshalom?s=21&t=sXwbGlpc_k7j4lyPl5Vy_Q)
-[Linkedin](https://www.linkedin.com/in/okechukwu-m-3748a5b9)
+[Twitter](https://twitter.com/noelshalom?s=21&t=sXwbGlpc_k7j4lyPl5Vy_Q) |
+[Linkedin](https://www.linkedin.com/in/okechukwu-m-3748a5b9) |
 [Medium](https://noelshalom14.medium.com/)
