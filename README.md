@@ -10,7 +10,7 @@
 Analytical problem solver with a degree in Economics and proficiency in **Excel, SQL, E-VIEWS, and POWERBI**
 
 ## BIO
-I'm a recent Economics graduate with a passion for data science and problem-solving. Throughout my academic career, I developed strong skills in Excel, SQL, E-VIEWS, and POWERBI, which I've applied in various challenges and research projects. I'm particularly interested in the intersection of economics and social impact, and I hope to use my skills to make a positive difference in the world. In my free time, you can find me watching movies or going out with my friends. Let's connect and see how we can collaborate to achieve our goals.
+Okechukwu Monye is a graduate of Economics with a passion for data science and a focus on making a positive societal impact. He aims to leverage his data-driven skills to contribute to meaningful projects that address societal challenges. Okechukwu's impressive achievements include successful completion of research projects, showcasing his ability to analyse complex data sets and derive valuable insights. His proficiency in data analytics and problem-solving has earned him recognition and accolades for his academic performance. He is driven by the desire to create lasting and positive solutions for communities through data-driven approaches
 
 ### Data analytical tools I'm proficient in
 - *Excel*
